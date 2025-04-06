@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF51435-1B3F-4B5C-801D-53945DEB7118}|Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma.csproj|c:\\users\\furka\\source\\repos\\acunmedyae\u011Fitim\\\u00F6dev\\eri\u015Fim belirleyiciler ve de\u011Fi\u015Fkenler ile \u00E7al\u0131\u015Fma\\eri\u015Fim belirleyiciler ve de\u011Fi\u015Fkenler ile \u00E7al\u0131\u015Fma\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF51435-1B3F-4B5C-801D-53945DEB7118}|Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma.csproj|solutionrelative:eri\u015Fim belirleyiciler ve de\u011Fi\u015Fkenler ile \u00E7al\u0131\u015Fma\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF51435-1B3F-4B5C-801D-53945DEB7118}|Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma.csproj|c:\\users\\furka\\source\\repos\\acunmedyae\u011Fitim\\\u00F6dev\\eri\u015Fim belirleyiciler ve de\u011Fi\u015Fkenler ile \u00E7al\u0131\u015Fma\\eri\u015Fim belirleyiciler ve de\u011Fi\u015Fkenler ile \u00E7al\u0131\u015Fma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF51435-1B3F-4B5C-801D-53945DEB7118}|Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma.csproj|solutionrelative:eri\u015Fim belirleyiciler ve de\u011Fi\u015Fkenler ile \u00E7al\u0131\u015Fma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\User.cs",
+              "RelativeDocumentMoniker": "Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\User.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\User.cs",
+              "RelativeToolTip": "Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\User.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:03:10.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Program.cs",
+              "RelativeDocumentMoniker": "Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Program.cs",
+              "RelativeToolTip": "Eri\u015Fim Belirleyiciler ve De\u011Fi\u015Fkenler ile \u00C7al\u0131\u015Fma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:01:20.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
