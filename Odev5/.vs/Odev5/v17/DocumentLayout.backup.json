@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Hafta 4\\Odev5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00B90F30-925B-4BC7-B87D-73A5EA2ECEE7}|Odev5\\Odev5.csproj|c:\\users\\furka\\source\\repos\\acunmedyae\u011Fitim\\\u00F6dev\\hafta 4\\odev5\\odev5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B90F30-925B-4BC7-B87D-73A5EA2ECEE7}|Odev5\\Odev5.csproj|solutionrelative:odev5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B90F30-925B-4BC7-B87D-73A5EA2ECEE7}|Odev5\\Odev5.csproj|c:\\users\\furka\\source\\repos\\acunmedyae\u011Fitim\\\u00F6dev\\hafta 4\\odev5\\odev5\\odev1\\odev1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B90F30-925B-4BC7-B87D-73A5EA2ECEE7}|Odev5\\Odev5.csproj|solutionrelative:odev5\\odev1\\odev1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B90F30-925B-4BC7-B87D-73A5EA2ECEE7}|Odev5\\Odev5.csproj|c:\\users\\furka\\source\\repos\\acunmedyae\u011Fitim\\\u00F6dev\\hafta 4\\odev5\\odev5\\odev2\\odev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B90F30-925B-4BC7-B87D-73A5EA2ECEE7}|Odev5\\Odev5.csproj|solutionrelative:odev5\\odev2\\odev2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Odev2.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Hafta 4\\Odev5\\Odev5\\Odev2\\Odev2.cs",
+              "RelativeDocumentMoniker": "Odev5\\Odev2\\Odev2.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Hafta 4\\Odev5\\Odev5\\Odev2\\Odev2.cs",
+              "RelativeToolTip": "Odev5\\Odev2\\Odev2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:35:13.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Odev1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Hafta 4\\Odev5\\Odev5\\Odev1\\Odev1.cs",
+              "RelativeDocumentMoniker": "Odev5\\Odev1\\Odev1.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Hafta 4\\Odev5\\Odev5\\Odev1\\Odev1.cs",
+              "RelativeToolTip": "Odev5\\Odev1\\Odev1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:31:28.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Hafta 4\\Odev5\\Odev5\\Program.cs",
+              "RelativeDocumentMoniker": "Odev5\\Program.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\AcunMedyaE\u011Fitim\\\u00D6dev\\Hafta 4\\Odev5\\Odev5\\Program.cs",
+              "RelativeToolTip": "Odev5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:16:20.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

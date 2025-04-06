@@ -1,0 +1,7 @@
+﻿
++ Array matematiğe benzetilmesi gerekirse dijital matristir
+
++İster 1 yüzli istersekde 2 yüzlü olabilir
+
++ Programlamada düzenli saklamamız gereken değişken veya
+nesnelerde Collectionlardan sonra en çok kullanılan sistemdir. 
