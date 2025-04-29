@@ -1,0 +1,16 @@
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\bin\Debug\net8.0-windows\Custom Attribute.exe
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\bin\Debug\net8.0-windows\Custom Attribute.deps.json
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\bin\Debug\net8.0-windows\Custom Attribute.runtimeconfig.json
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\bin\Debug\net8.0-windows\Custom Attribute.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\bin\Debug\net8.0-windows\Custom Attribute.pdb
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\Custom_Attribute.Form1.resources
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\Custom Attribute.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\Custom Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\Custom Attribute.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\Custom Attribute.AssemblyInfo.cs
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\Custom Attribute.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\Custom Attribute.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\refint\Custom Attribute.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\Custom Attribute.pdb
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\Custom Attribute.genruntimeconfig.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Custom Attribute\Custom Attribute\obj\Debug\net8.0-windows\ref\Custom Attribute.dll
